@@ -1,5 +1,30 @@
 # AML-ASA-EH-PBI
-For Alcoa 2018
+These Hands on Labs (HoLs) are curated for Alcoa. 
+02/16/2018.
 
-# Azure Machine Learning Hands on Labs
+## The major Azure services highlighted in the labs are:
+* AML: Azure Machine Learning Studio. 
+* ASA: Azure Streaming Analytics.
+* EH:  Event Hubs.
+* PBI: Power BI.
+A hidden component is Azure Storage Blob.
+
+## We have 3 topics:
+1. Azure ML: A deep dive into Azure Machine Learning Studio from data, pre-processing, model fitting, testing, deployment, and more!
+2. ASA-EH: A deep dive into Azure Streaming Analytics and Event Hubs in analysizing large volume of real-time streaming data using SQL-like statements.
+3. ASA-PBI: One of a great way to consume real-time streaming data is to use a dashboard visualization tool that is Power BI. 
+
+
+## Azure Machine Learning Hands on Labs
 [Azure Machine Learning Hands on Lab created by Azure Readiness](https://github.com/kayapperson/AzureMLHoL)
+
+
+### **A Brief Suggested timeline for HOLs**
+
+| Time | Activity |
+| ---        | ---      |
+| 1 hour     | Overview of the day |
+| 4 hours    | [Azure Machine Learning Hands on Lab](https://github.com/kayapperson/AzureMLHoL) |
+| 1.5 hours  | [Azure Streaming Analytics and Event Hubs Lab](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-EH-Blob)
+| 1 hour     | [Azure Streaming Analtyics and Power BI Lab](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-PBI) |
+
