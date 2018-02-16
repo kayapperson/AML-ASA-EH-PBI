@@ -1,0 +1,1 @@
+Azure Streaming Analytics and Event Hubs labs with a simulation program to generate phone call logs. The analysis is done via a SQL-like ASA queries and the results are stored on a Blob storage container. 
