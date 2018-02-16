@@ -18,10 +18,10 @@ These Hands on Labs (HoLs) are curated for Alcoa in Q1 CY2018.
 
 | Time       | Activity |
 | ---        | ---      |
-| 2 hours     | Overview of the day. Cloud AI 101. |
-| 4 hours    | [Azure Machine Learning HoL](https://github.com/kayapperson/AzureMLHoL) |
-| 3 hours    | Architecture design discussions for customer's business use cases.
-| 1.5 hours  | [Azure Streaming Analytics and Event Hubs HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-EH-Blob)
-| 1.5 hour   | [Azure Streaming Analtyics and Power BI HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-PBI) |
+| Day 1. 2 hours    | Overview of the day. Cloud AI 101. |
+| Day 1. 4 hours mininum   | [Azure Machine Learning HoL](https://github.com/kayapperson/AzureMLHoL) |
+| Day 2. 3 hours    | Architecture design discussions for customer's business use cases.
+| Day 2. 1.5 hours  | [Azure Streaming Analytics and Event Hubs HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-EH-Blob)
+| Day 2. 1.5 hour   | [Azure Streaming Analtyics and Power BI HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-PBI) |
 
 
