@@ -14,17 +14,14 @@ These Hands on Labs (HoLs) are curated for Alcoa in Q1 CY2018.
 3. ASA-PBI: One of the great ways to consume real-time streaming data is to use a dashboard visualization tool that is Power BI. 
 
 
-## Azure Machine Learning Hands on Labs
-[Azure Machine Learning Hands on Lab created by Azure Readiness](https://github.com/kayapperson/AzureMLHoL)
-
-
-### **A Brief Suggested timeline for HOLs**
+### **Suggested timeline for HOLs is 1.5 to 2 days.**
 
 | Time       | Activity |
 | ---        | ---      |
-| 1 hour     | Overview of the day. Cloud AI 101. |
+| 2 hours     | Overview of the day. Cloud AI 101. |
 | 4 hours    | [Azure Machine Learning HoL](https://github.com/kayapperson/AzureMLHoL) |
+| 3 hours    | Architecture design discussions for customer's business use cases.
 | 1.5 hours  | [Azure Streaming Analytics and Event Hubs HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-EH-Blob)
 | 1.5 hour   | [Azure Streaming Analtyics and Power BI HoL](https://github.com/kayapperson/AML-ASA-EH-PBI/tree/master/ASA-PBI) |
-| 2 hours    | Architecture design discussions for customer's business use cases.
+
 
